@@ -33,9 +33,7 @@ Second hand → rotates every second
 
 This is typically done using trigonometric/time-based calculations.
 
-📸 Preview
 
-(Add your project screenshot here)
 
 🌟 Future Improvements
 Add dark/light mode 
